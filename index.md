@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Gravity Golf Support
 
-You can use the [editor on GitHub](https://github.com/toncent/GravityGolf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About the Game
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ever wondered what mini golf would be like in space? 
+No?
+...
+Well I have so let's move on.
+Trying to get to the hole but there is a star in the way? Just go around it in a nice arc using the stars own gravity. You might even encounter other objects that don't usually exist in space, but you will have to download the game to find out what those are (Or look at the screenshots in the store if you don't like surprises I guess. I won't stop you - I'm not your mom).
 
-### Markdown
+## How to play
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    * Tap on 'New Game' and choose a slot for your new game.
+        * You will be prompted to choose a name for the save game. Press **Done** when you are happy with the name.
+    * Tap the white circle with the bouncing arrow above it to start the first level.
+    * Aim for the *wormhole* (the green spiraly thingy) by moving your finger around on the screen.
+        * Take your finger off the screen to see the outcome
+    * If you hit the wormhole you will unlock the next level.
+    * If you want to leave a level without hitting the goal you can press the arrow in the top left corner.
+    * Sometimes there is more than one wormhole in a level. That happens when the path branches out after this level.
+        * You can hit both wormholes and unlock both paths or 
+        * if you have trouble with one of them you can leave the level after hitting just the other one to unlock only one of the branching paths for now (you can come back anytime and try some more)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Where to get the Game
 
-1. Numbered
-2. List
+Links will be added as soon as the game is available in the Appstores
 
-**Bold** and _Italic_ and `Code` text
+## Supported Phones
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toncent/GravityGolf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Currently Android versions 4.1 and upwards are supported as well as iOS versions 9.0 and upwards.
