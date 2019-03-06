@@ -10,16 +10,16 @@ Trying to get to the hole but there is a star in the way? Just go around it in a
 
 ## How to play
 
-    * Tap on 'New Game' and choose a slot for your new game.
-        * You will be prompted to choose a name for the save game. Press **Done** when you are happy with the name.
-    * Tap the white circle with the bouncing arrow above it to start the first level.
-    * Aim for the *wormhole* (the green spiraly thingy) by moving your finger around on the screen.
-        * Take your finger off the screen to see the outcome
-    * If you hit the wormhole you will unlock the next level.
-    * If you want to leave a level without hitting the goal you can press the arrow in the top left corner.
-    * Sometimes there is more than one wormhole in a level. That happens when the path branches out after this level.
-        * You can hit both wormholes and unlock both paths or 
-        * if you have trouble with one of them you can leave the level after hitting just the other one to unlock only one of the branching paths for now (you can come back anytime and try some more)
+* Tap on 'New Game' and choose a slot for your new game.
+* You will be prompted to choose a name for the save game. Press **Done** when you are happy with the name.
+* Tap the white circle with the bouncing arrow above it to start the first level.
+* Aim for the *wormhole* (the green spiraly thingy) by moving your finger around on the screen.
+  * Take your finger off the screen to see the outcome
+  * If you hit the wormhole you will unlock the next level.
+  * If you want to leave a level manually you can press the arrow in the top left corner.
+* Sometimes there is more than one wormhole in a level. That happens when the path branches out after this level.
+  * You can hit both wormholes and unlock both paths or 
+  * if you have trouble with one of them you can leave the level after hitting just the other one to unlock only one of the branching paths for now (you can come back anytime and try some more)
 
 
 
